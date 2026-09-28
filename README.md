@@ -191,4 +191,14 @@ Voir l'onglet **Insights > Contributors** de GitHub pour voir la contribution de
 
 ---
 
+## Mes contributions au projet
+Dans le cadre de cette collaboration à 3 personnes, j'étais principalement responsable de :
+- Tous les fichiers FXML des vues et composants, sauf celui du formulaire d'ajout ou modification
+- Le controlleur principal et les controllers des composants, ainsi que du benchmark
+- La majorité du CSS
+- Les fichiers de schéma et de peuplement SQL
+- Le script Python pour générer le script de peuplement
+
+#### Dépôt d'origine de l'équipe : [https://github.com/NjGuitlab/voitures-occasion-javafx.git](https://github.com/NjGuitlab/voitures-occasion-javafx.git)
+
 
